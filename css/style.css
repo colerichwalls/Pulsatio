@@ -24,7 +24,7 @@ footer p {
 }
 .img-half {
    height: 10rem;
-   }
+}
    @media screen and (min-width: 600px){
    .img-half {
    width: calc(50% - .5rem);

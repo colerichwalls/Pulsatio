@@ -1,4 +1,5 @@
 /* my custom styling mobile first: */
+/* #E05128 , #E08728 , #FCB02D */
 header {
    background-color: #ccc;
 }
@@ -16,6 +17,11 @@ h1, p {
 footer p {
   padding-top: .5rem;
 }
+.navbar-brand {
+  width: 20%;
+  display: block;
+  padding-bottom: 0rem;
+}
 .img-half {
    height: 10rem;
    }
@@ -26,9 +32,9 @@ footer p {
    height: auto;
    padding-bottom: calc(50% * (1/2));
    }
-}
-
-.navbar-brand {
+   .navbar-brand {
   width: 5%;
   display: block;
 }
+}
+

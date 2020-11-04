@@ -21,8 +21,17 @@ footer p {
   padding-top: .5rem;
 }
 
+.navbar-brand {
+  width: 10%;
+}
+
 .img-half {
-  height: 10rem;
+  height: 5rem;
+}
+
+.bg-secondary {
+  display: block;
+  width: 5%;
 }
 
 @media screen and (min-width: 600px) {
@@ -30,11 +39,6 @@ footer p {
     width: calc(50% - .5rem);
     /* margin: 0 0 0 1rem; */
     height: auto;
-    padding-bottom: calc(50% * (1/2));
   }
-}
-
-img {
-  display: block;
 }
 /*# sourceMappingURL=style.css.map */

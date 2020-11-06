@@ -39,6 +39,7 @@ footer p {
   width: 25%;
 }
 
+<<<<<<< HEAD
 .navbar-brand .nav-link {
   color: #e08728;
 }
@@ -48,6 +49,9 @@ footer p {
 }
 
 .bg-secondary {
+=======
+.img-half {
+>>>>>>> upstream/main
   display: block;
 }
 

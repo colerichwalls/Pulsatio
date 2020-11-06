@@ -3,8 +3,22 @@ header {
   background-color: #ccc;
 }
 
+html {
+  background-color: #e05128;
+}
+
+body .jumbotron {
+  background-color: #e05128;
+  color: #fff;
+}
+
 footer {
-  background-color: #ccc;
+  background-color: #e05128;
+  color: #fff;
+}
+
+footer .nav-link {
+  color: aqua;
 }
 
 h1, p {
@@ -25,7 +39,19 @@ footer p {
   width: 25%;
 }
 
+<<<<<<< HEAD
+.navbar-brand .nav-link {
+  color: #e08728;
+}
+
+.nav-item {
+  width: 24vw;
+}
+
+.bg-secondary {
+=======
 .img-half {
+>>>>>>> upstream/main
   display: block;
 }
 

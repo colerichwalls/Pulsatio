@@ -1,9 +1,25 @@
 /* my custom styling mobile first: */
 header {
     background-color: #ccc;
+   //  background-color: #e05128;
+   //  background-color: #e08728;
+   //  background-color: #fcb02d;
+ }
+ html{
+    background-color:  #e05128;
+ }
+ body{
+   .jumbotron{
+      background-color: #e05128;
+      color: #fff;
+   }
  }
  footer {
-    background-color: #ccc;
+    background-color: #e05128;
+    color: #fff;
+    .nav-link{
+       color:aqua;
+    }
  }
  h1, p {
     padding: 0 1rem;
@@ -18,6 +34,12 @@ header {
  }
  .navbar-brand {
      width: 25%;
+     .nav-link{
+        color: #e08728;
+     }
+ }
+ .nav-item{
+    width: 24vw;
  }
 .img-half {
     display: block;
@@ -44,5 +66,5 @@ header {
 @media screen and (min-width: 900px){
     .navbar-brand {
       width: 10%;
-   }
+      }
    }

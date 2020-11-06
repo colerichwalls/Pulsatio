@@ -41,4 +41,14 @@ footer p {
     height: auto;
   }
 }
+
+.past-work {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(220px, 1fr))[auto-fill];
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  grid-auto-rows: minmax(220px, auto);
+  gap: .5rem;
+  background-color: #e6e6e6;
+}
 /*# sourceMappingURL=style.css.map */

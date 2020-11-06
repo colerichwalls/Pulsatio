@@ -29,32 +29,8 @@ footer p {
   height: 5rem;
 }
 
-<<<<<<< HEAD
-/* my custom styling mobile first: */
-<<<<<<< HEAD
-/* #E05128 , #E08728 , #FCB02D */
-header {
-   background-color: #ccc;
-}
-footer {
-   background-color: #ccc;
-}
-h1, p {
-   padding: 0 1rem;
-}
-.jumbotron {
-   background-image: url(#); 
-   background-size: cover;
-   border-radius: 0%;
-}  
-footer p {
-  padding-top: .5rem;
-}
-.navbar-brand {
-  width: 20%;
-=======
+
 .bg-secondary {
->>>>>>> a14192cd04636086c8ae1c11b2c21fc63ad0f1f8
   display: block;
   width: 5%;
 }
@@ -66,14 +42,4 @@ footer p {
     height: auto;
   }
 }
-<<<<<<< HEAD
-
-=======
-img {
-  display: block;
-}
 /*# sourceMappingURL=style.css.map */
-
-=======
-/*# sourceMappingURL=style.css.map */
->>>>>>> a14192cd04636086c8ae1c11b2c21fc63ad0f1f8
